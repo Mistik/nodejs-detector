@@ -1,13 +1,13 @@
 ### Install
 
 ```shell
-npm install --save node-detector
+npm install --save nodejs-detector
 ```
 
 ### Usage:
 
 ```js
-var isNode = require('node-detector');
+var isNode = require('nodejs-detector');
 
 if (isNode) {
   console.log("Running under Node.JS");
