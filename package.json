@@ -1,5 +1,5 @@
 {
-  "name": "node-detector",
+  "name": "nodejs-detector",
   "version": "1.0.0",
   "description": "Detect Node.JS (as opposite to browser environment) (reliable)",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MistikSenpa/node-detector"
+    "url": "https://github.com/MistikSenpa/nodejs-detector"
   },
   "keywords": [
     "detect",
@@ -18,7 +18,7 @@
   "author": "Mistik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MistikSenpa/node-detector/issues"
+    "url": "https://github.com/MistikSenpa/nodejs-detector/issues"
   },
-  "homepage": "https://github.com/MistikSenpa/node-detector"
+  "homepage": "https://github.com/MistikSenpa/nodejs-detector"
 }
