@@ -1,6 +1,6 @@
 {
   "name": "nodejs-detector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect Node.JS (as opposite to browser environment) (reliable)",
   "main": "index.js",
   "browser": "browser.js",
