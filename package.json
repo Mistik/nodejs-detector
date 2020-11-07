@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MistikSenpa/nodejs-detector"
+    "url": "https://github.com/Mistik/nodejs-detector"
   },
   "keywords": [
     "detect",
@@ -18,7 +18,7 @@
   "author": "Mistik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MistikSenpa/nodejs-detector/issues"
+    "url": "https://github.com/Mistik/nodejs-detector/issues"
   },
-  "homepage": "https://github.com/MistikSenpa/nodejs-detector"
+  "homepage": "https://github.com/Mistik/nodejs-detector"
 }
